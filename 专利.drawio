@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T05:37:27.289Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hb8aC10Wq_mLVkKV47R4" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T06:27:50.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3Qkp_mb6lAGy1TQTLqXg" version="22.0.8" type="github" pages="2">
   <diagram name="第 1 页" id="8yFnED6kaEZXydfluwhr">
     <mxGraphModel dx="956" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,6 +59,38 @@
         </mxCell>
         <mxCell id="VWUyws8iMKpoBbYn44xb-27" value="展示屏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ziwZ5o0QrYorIFARfveP" name="第 2 页">
+    <mxGraphModel dx="1434" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jPtNU-vnqfOvGsRdmrvu-1" value="时序名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jPtNU-vnqfOvGsRdmrvu-2" value="时序标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jPtNU-vnqfOvGsRdmrvu-3" value="时序字段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jPtNU-vnqfOvGsRdmrvu-4" value="时序时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="220" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jPtNU-vnqfOvGsRdmrvu-6" value="func_call_num" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jPtNU-vnqfOvGsRdmrvu-7" value="method=write,upstream=main" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jPtNU-vnqfOvGsRdmrvu-8" value="count=1,lay=10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="250" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jPtNU-vnqfOvGsRdmrvu-10" value="1698805690957149000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="677" y="250" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
